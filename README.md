@@ -19,8 +19,8 @@ Saya adalah mahasiswa Sistem Informasi yang memiliki minat besar dalam pengemban
 - *[Project Android]:* (soon).
 
 ### 📫 Mari Terhubung!
-- *LinkedIn:* [https://www.linkedin.com/in/luqmansyah/]
-- *Email:* [zklqmn02@gmail.com] 
+- [LinkedIn](https://www.linkedin.com/in/luqmansyah/)
+- [Email](zklqmn02@gmail.com)
 
 ---
 *"Debugging is like being the detective in a crime movie where you are also the murderer."*
