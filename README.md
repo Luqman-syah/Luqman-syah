@@ -24,3 +24,7 @@ Saya adalah mahasiswa Sistem Informasi yang memiliki minat besar dalam pengemban
 
 ---
 *"Debugging is like being the detective in a crime movie where you are also the murderer."*
+
+
+![Statistik GitHub Kamu](https://github-readme-stats.vercel.app/api?username=Luqman-syah&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luqman-syah&layout=compact&theme=radical)
