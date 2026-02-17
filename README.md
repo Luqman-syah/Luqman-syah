@@ -4,18 +4,19 @@ Saya adalah mahasiswa Sistem Informasi yang memiliki minat besar dalam pengemban
 
 ### 🚀 Tentang Saya
 - 🎓 Sedang menempuh pendidikan di jurusan Sistem Informasi.
-- 📱 Fokus pada pengembangan aplikasi Android menggunakan *Kotlin* di *Android Studio*.
+- 📱 Fokus pada petualangan sebagai Data Science Pemula menggunakan *Python* di *VS Code*
 - 🌐 Juga mendalami pengembangan web (seperti project [UangKu](https://github.com/Luqman-syah/UangKu)).
 - 🌱 Sedang mempelajari Visualisasi Data.
 
 ### 🛠️ Tech Stack
-- *Languages:* Java, Kotlin, PHP, JavaScript
-- *Mobile Dev:* Android Studio, XML, Material Design
-- *Web Dev:* HTML5, CSS3, JSON, MySQL, PHP
+- *Languages:* Python, Kotlin, PHP, JavaScript
+- *Mobile Dev:* Android Studio
+- *Web Dev:* HTML5, CSS3, MySQL, PHP
 - *Tools:* Git, GitHub, VS Code
 
 ### 📂 Project Unggulan
 - *[UangKu](link-ke-repo-uangku):* Aplikasi manajemen keuangan berbasis web yang membantu pengguna mencatat pengeluaran dan pemasukan dengan mudah.
+- *[VisualisasiData](https://github.com/Luqman-syah/Visualisasi-With-Matplotlib.git):* Melakukan Data Cleaning, EDA, hingga Visualisasi 
 - *[Project Android]:* (soon).
 
 ### 📫 Mari Terhubung!
