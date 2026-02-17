@@ -15,7 +15,7 @@ Saya adalah mahasiswa Sistem Informasi yang memiliki minat besar dalam pengemban
 - *Tools:* Git, GitHub, VS Code
 
 ### 📂 Project Unggulan
-- *[UangKu](link-ke-repo-uangku):* Aplikasi manajemen keuangan berbasis web yang membantu pengguna mencatat pengeluaran dan pemasukan dengan mudah.
+- *[UangKu]([link-ke-repo-uangku](https://github.com/Luqman-syah/UangKu.git)):* Aplikasi manajemen keuangan berbasis web yang membantu pengguna mencatat pengeluaran dan pemasukan dengan mudah.
 - *[VisualisasiData](https://github.com/Luqman-syah/Visualisasi-With-Matplotlib.git):* Melakukan Data Cleaning, EDA, hingga Visualisasi 
 - *[Project Android]:* (soon).
 
